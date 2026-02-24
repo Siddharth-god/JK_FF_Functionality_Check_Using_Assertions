@@ -1,0 +1,54 @@
+# =============================
+# Simulation Generated Files
+# =============================
+
+# ModelSim / Questa
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vstf
+*.log
+*.jou
+*.pb
+*.qdb
+
+# Waveforms
+*.vcd
+*.vpd
+*.fsdb
+*.wdb
+
+# Coverage
+*.ucdb
+*.cov
+
+# Dump files
+dump.vcd
+*.dump
+
+# Temporary / Backup files
+*.swp
+*.bak
+*.tmp
+*.old
+
+# Compiled objects
+*.o
+*.obj
+
+# Tool-generated folders
+modelsim.ini
+questa_lib/
+simulation/
+xsim.dir/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Windows
+desktop.ini
